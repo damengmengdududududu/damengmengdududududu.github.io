@@ -18,13 +18,13 @@
 ##  1800012993 李萌烨      
 ## 1.作业一：人物关系图   
 对《三体》角色词频统计结果得到的主要人物进行共现分析，可视化得到人物关系图   
- [人物关系图](https://github.com/damengmengdududududu/damengmengdududududu.github.io/blob/main/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E4%B8%89%E4%BD%93%E4%BA%BA%E7%89%A9.html)
+ [人物关系图](https://damengmengdududududu.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E4%B8%89%E4%BD%93%E4%BA%BA%E7%89%A9.html)
 ## 2.作业二：搜索引擎   
 用html实现搜索引擎的功能，在输入框输入点击搜索后显示搜狗引擎的搜索结果。                 
 [我的搜狗](https://damengmengdududududu.github.io/mysougou.html)
 ## 3.作业三：css美化 
 用html制作个人主页，并采用css进行美化。         
-[个人主页](https://github.com/damengmengdududududu/damengmengdududududu.github.io/blob/main/zhuye.html)   
+[个人主页](https://damengmengdududududu.github.io/zhuye.html)   
 
 
 
